@@ -22,3 +22,6 @@
 | ```src/helpers```| Archivos javascript que agregan utilitarios al plantillero de handlebars | |
 |```css_src```| Carpeta con el css para el framework de Tailwind y los css custom con apply | TailwindCss |
 |```img_src```| Carpeta con las imágenes relacionadas en las plantillas | assets |
+
+## Muestra de la página web
+<img src='https://cdn.discordapp.com/attachments/807823691974180895/813226416497623040/Captura_de_pantalla_246.png'/>
