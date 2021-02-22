@@ -1,5 +1,14 @@
-# Proyect Boilerplate Tailwind v0.1 Portales Web II
-**Autor: Orlando José Betancourth A**
+# Proyecto Página web de artículos de Nike
+Se muestran algunos de los zapatos deportivos de la marca que son especiales <br>
+para deportes como el running, fútbol, atletismo, baloncesto y demás ramas deportivas.
+
+**Autores:**
+<h3 align="left" fontSize=30px> <strong>Wilmer Josué García Pineda 1006-1998-01227</strong> </h3>
+<h3 align="left"> <strong>Luis Geovanni Trochez Aguilar 1627-1999-00179</strong> </h3>
+<h3 align="left"> <strong>Alex Javier Mendoza Lemus 1010-1999-00218</strong> </h3>
+<h3 align="left"> <strong>Edi Manrique Ortiz Martinez 1613-1997-00967</strong> </h3>
+<h3 align="left"> <strong>Josué David Nolasco 1006-2002-00783</strong> </h3>
+
 ## Requirimientos Funcionales
 * Usar Twailand css con el cli para crear un css optimizado
 * Usar todas las utilidades de tailwind css para **Design System**
