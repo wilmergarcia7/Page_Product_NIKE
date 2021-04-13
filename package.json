@@ -20,5 +20,8 @@
   "scripts": {
     "build": "NODE_ENV=production node_modules/.bin/webpack --mode production",
     "start": "node_modules/.bin/webpack serve --mode=development --config webpack.config.js"
+  },
+  "dependencies": {
+    "handlebars-helper-github-pages": "0.0.1"
   }
 }
